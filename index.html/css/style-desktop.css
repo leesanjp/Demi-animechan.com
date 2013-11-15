@@ -26,9 +26,12 @@
 #page-wrapper {
 	overflow: hidden;
 	padding: 50px 0px;
-	background-color: #FFFFFF;
+	background-color: #282828;
 }
+#Logo h1 a { 
+text-shadow: 3px 3px 5px #000;
 
+}
 #page-wrapper h2 {
 	padding: 0px 0px 30px 0px;
 }
@@ -62,7 +65,7 @@
 	font-family: 'Lobster', cursive;
 	font-size: 54pt;
 	font-weight: 200;
-	color: #FFFFFF;
+	color: #F0F0F0;
 }
 
 #logo p {
@@ -72,7 +75,7 @@
 	font-family: 'Magra', sans-serif;
 	font-size: 20pt;
 	font-weight: 200;
-	color: #FFFFFF;
+	color: #F0F0F0;
 }
 
 /* Menu */
@@ -102,7 +105,7 @@
 
 #menu a:hover {
 	background: url(images/menu-hover-bg.png) repeat-x left top;
-	color: #FFFFFF;
+	color: #F0F0F0;
 }
 
 /* Banner Content */
@@ -130,11 +133,11 @@
 	font-family: 'Magra', sans-serif;
 	font-weight: 300;
 	font-size: 48px;
-	color: #696969
+	color: #F0F0F0
 }
 
 #splash span {
-	color: #000000;
+	color: #F0F0F0;
 }
 
 /* Footer Content */
