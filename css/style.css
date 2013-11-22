@@ -168,11 +168,27 @@ strong {
 
 .item img {
 	width:300px;
+
 }
 
+.Galleri {
+	width: 1250px;
+	margin: auto;
+}
+	  
 
+.item1 {
+	float: left;
+	width: 150px;
+	height: 350px;
+	margin-bottom:30px;
+	overflow: hidden;
+	margin-right: 30px;
+}
 
-
+.item1 img {
+	width:300px;
+	display:block;
 
 
 
